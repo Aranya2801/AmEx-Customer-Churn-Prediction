@@ -1,7 +1,6 @@
-<div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/American_Express_logo_%282018%29.svg/800px-American_Express_logo_%282018%29.svg.png" alt="AmEx Logo" width="140"/>
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/American_Express_logo_%282018%29.svg/800px-American_Express_logo_%282018%29.svg.png" alt="American Express Logo" width="140">
+</p>
 # 🏦 AmEx Customer Churn Prediction
 
 ### End-to-End Machine Learning Platform for Customer Retention Intelligence
