@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/american-express-logo.png"
+  <img src="american-express-logo.png"
        alt="American Express Logo"
        width="180">
 </p>
