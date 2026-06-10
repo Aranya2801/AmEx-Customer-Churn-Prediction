@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/American_Express_logo_%282018%29.svg/800px-American_Express_logo_%282018%29.svg.png" alt="American Express Logo" width="140">
+  <img src="assets/american-express-logo.png"
+       alt="American Express Logo"
+       width="180">
 </p>
 
-<h3 align="center">American Express Financial Intelligence Platform</h3>
+<h1 align="center">American Express Financial Intelligence Platform</h1>
+
 <p align="center">
-  AI-Powered Credit Risk • Fraud Detection • Customer Analytics
+  AI-Powered Credit Risk • Fraud Detection • Fraud Analytics • Customer Intelligence
 </p>
 # 🏦 AmEx Customer Churn Prediction
 
